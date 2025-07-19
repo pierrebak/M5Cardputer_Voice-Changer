@@ -3,7 +3,7 @@
 /*
  * M5Cardputer High-Pitch Voice Changer with Enhanced UI
  * * This sketch records audio continuously. Pressing 'Go' (the right big button on top of the device ) applies a 
- * * high-pitch effect and plays it back.
+   high-pitch effect and plays it back.
  * * The UI has been updated with icons, colors, and a dynamic
  * * recording indicator for a more attractive look.
  * * Hardware: M5Cardputer
